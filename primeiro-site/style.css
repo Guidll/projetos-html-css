@@ -1,0 +1,56 @@
+ body{
+     background:rgb(55, 56, 58);
+     max-width: 1280px;
+     margin: auto;
+     }
+ #title, .subtitle, .post-title, .make-title, .header-banoffee{
+     color: rgb(231, 231, 231);
+     font-family: Verdana, Arial;
+ }
+
+ #title{
+    background: rgb(35, 36, 37);
+    padding: 10px;
+    margin: auto;  
+    font-weight: bold;
+ }
+
+.subtitle{
+    padding: 20px;
+     font-size: 24px;
+     margin-bottom: 0%;
+ }
+
+ .post-title{
+     font-size: 16px;
+     font-style: italic;
+ }
+
+ .modo-fazer-title{
+ }
+
+ .header-banoffee{
+     border:2px solid rgb(35, 36, 37);  
+     border-radius: 5px;
+     padding: 10px;
+     padding-top: 0%;
+ }
+
+ .meu-linkedin{
+     color: cadetblue;
+ }
+
+ .imagem-banoffee{
+     border-radius: 25px;
+     width:100%
+ }
+
+ .lista-ingredientes-banoffee{
+     list-style-type: square;
+ }
+
+ .borda-topo{
+     margin:100%;
+     background: rgb(35, 36, 37);
+
+ }
